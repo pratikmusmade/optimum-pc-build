@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -13,7 +12,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
-=======
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -31,4 +30,3 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
->>>>>>> 7761e8a3a9b97753cb442f6739ff6f92d8ee5165
